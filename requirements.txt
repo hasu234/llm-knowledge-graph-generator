@@ -1,0 +1,10 @@
+# Core API dependencies
+fastapi
+uvicorn
+openai
+pandas
+pydantic
+python-multipart
+python-dotenv
+mistralai
+google-genai
